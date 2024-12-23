@@ -6,7 +6,7 @@
 </details><br>
 
 <!-- Gmail 배지 -->
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:n.yekyeong@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=gmail&logoColor=ffffff" alt="Gmail Badge"/>
 </a>
 
