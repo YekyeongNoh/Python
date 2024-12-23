@@ -2,7 +2,7 @@
 
 <details open>
   <summary>About Me</summary>
-  Python Python Python
+  I don't know who I am means everything is relevant, so I must ramp up my capacity for action to deal with that.
 </details><br>
 
 <!-- Gmail 배지 -->
